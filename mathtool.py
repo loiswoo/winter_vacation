@@ -9,3 +9,5 @@ def sqrt(a):
 
 def summinussquare(a,b):
     return (a**2 + b**2) - (a+b) **2
+def minussquare(a,b):
+    return a**2 - b**2
