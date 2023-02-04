@@ -6,3 +6,6 @@ def triplesum(a,b):
 
 def sqrt(a):
     return sqrt(a)
+
+def summinussquare(a,b):
+    return (a**2 + b**2) - (a+b) **2
